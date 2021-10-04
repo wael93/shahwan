@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6570716f-791c-4dcd-ab35-77e26ec5ca4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/images/LOGO-01-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Homepage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/login.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -74,7 +72,56 @@
       <option name="project" value="LOCAL" />
       <updated>1633340798121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Login Screen">
+      <created>1633343364385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343364385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login Screen">
+      <created>1633343367590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343367590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Login Screen">
+      <created>1633343370630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343370630</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login Screen">
+      <created>1633343373553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343373553</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Login Screen">
+      <created>1633343381121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343381121</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Login Screen">
+      <created>1633343385380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343385380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Login Screen">
+      <created>1633343387529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633343387529</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Login Screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login Screen" />
   </component>
 </project>
