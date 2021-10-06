@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6570716f-791c-4dcd-ab35-77e26ec5ca4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Database/sqlLite.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Model/user.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Services/Request (1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Services/base.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Services/service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Homepage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/images" />
     <property name="project.structure.last.edited" value="Project" />
@@ -253,7 +244,112 @@
       <option name="project" value="LOCAL" />
       <updated>1633447092089</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix Json">
+      <created>1633532274445</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532274446</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix Json">
+      <created>1633532278967</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532278967</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix Json">
+      <created>1633532283661</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532283661</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix Json">
+      <created>1633532286082</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532286082</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix Json">
+      <created>1633532291142</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532291142</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix Json">
+      <created>1633532293863</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532293863</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix Json">
+      <created>1633532297491</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532297491</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix Json">
+      <created>1633532301498</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532301498</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix Json">
+      <created>1633532305697</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532305697</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix Json">
+      <created>1633532308138</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532308138</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix Json">
+      <created>1633532310713</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532310713</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix Json">
+      <created>1633532313298</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532313298</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix Json">
+      <created>1633532316000</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532316000</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix Json">
+      <created>1633532321696</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532321696</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix Json">
+      <created>1633532323908</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1633532323908</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +368,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Login Screen" />
     <MESSAGE value="HomePage" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomePage" />
+    <MESSAGE value="fix Json" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix Json" />
   </component>
 </project>
