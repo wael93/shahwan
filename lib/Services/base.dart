@@ -1,0 +1,1 @@
+class BaseService {  final String base_url = "http://shahwan-qr.com:5000";  String serviceName = "";  String token = '';  BaseService(this.serviceName) ;  // Map<String,String> header =  {  //   "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>",  //  //  // } ;}
