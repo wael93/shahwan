@@ -5,4 +5,5 @@ path_provider_linux=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dar
 path_provider_macos=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
 path_provider_windows=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
 qr_mobile_vision=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qr_mobile_vision-3.0.1/
+qrscan=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.3.2/
 sqflite=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4/
