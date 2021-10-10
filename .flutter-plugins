@@ -1,9 +1,9 @@
 # This is a generated file; do not edit or check into version control.
-native_device_orientation=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_device_orientation-1.0.0/
-path_provider=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.4/
-path_provider_linux=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
-path_provider_macos=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
-path_provider_windows=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
-qr_mobile_vision=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qr_mobile_vision-3.0.1/
-qrscan=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.3.2/
-sqflite=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4/
+native_device_orientation=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\native_device_orientation-1.0.0\\
+path_provider=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.5\\
+path_provider_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.0\\
+path_provider_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.2\\
+path_provider_windows=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.3\\
+qr_mobile_vision=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qr_mobile_vision-3.0.1\\
+qrscan=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\
+sqflite=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-2.0.0+4\\
