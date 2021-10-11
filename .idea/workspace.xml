@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="212d86fc-ec5c-41c2-91ca-314364fce08b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shahwan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shahwan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Homepage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Services/service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Services/service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/recive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/recive.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/scannPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/scannPage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="09d70e5e-7654-457e-9217-d51fe3f28288" />
   </component>
   <component name="ProjectId" id="1zBGYET4Xzxf2SRN2XQpXxc4WCw" />
   <component name="ProjectLevelVcsManager">
@@ -187,7 +179,112 @@
       <option name="project" value="LOCAL" />
       <updated>1633797594984</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Recive">
+      <created>1633973032064</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973032064</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Recive">
+      <created>1633973035454</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973035454</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Recive">
+      <created>1633973041197</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973041197</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Recive">
+      <created>1633973044345</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973044345</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Recive">
+      <created>1633973046924</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973046924</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Recive">
+      <created>1633973049792</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973049792</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Recive">
+      <created>1633973054040</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973054040</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Recive">
+      <created>1633973058063</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973058063</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Recive">
+      <created>1633973064405</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973064405</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Recive">
+      <created>1633973069075</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973069075</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Recive">
+      <created>1633973072806</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973072806</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Recive">
+      <created>1633973077337</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973077337</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Recive">
+      <created>1633973080154</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973080154</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Recive">
+      <created>1633973090076</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973090076</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Recive">
+      <created>1633973093767</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1633973093767</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +303,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="QR SCreen" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Recive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recive" />
   </component>
 </project>
