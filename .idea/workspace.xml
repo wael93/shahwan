@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="212d86fc-ec5c-41c2-91ca-314364fce08b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Model/ProductTabel.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/Database/sqlLite.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Database/sqlLite.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Model/ProductTabel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Model/ProductTabel.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/recive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/recive.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +293,70 @@
       <option name="project" value="LOCAL" />
       <updated>1633973634275</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Before Persone">
+      <created>1634051241418</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051241418</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Before Persone">
+      <created>1634051244038</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051244038</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Before Persone">
+      <created>1634051248748</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051248748</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Before Persone">
+      <created>1634051251137</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051251137</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Before Persone">
+      <created>1634051253354</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051253354</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Before Persone">
+      <created>1634051257260</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051257260</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Before Persone">
+      <created>1634051259627</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051259627</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Before Persone">
+      <created>1634051261992</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051261992</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Before Persone">
+      <created>1634051264225</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1634051264225</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,15 +376,16 @@
     <MESSAGE value="QR SCreen" />
     <MESSAGE value="commit" />
     <MESSAGE value="Recive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recive" />
+    <MESSAGE value="Before Persone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before Persone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/Database/sqlLite.dart</url>
-          <line>72</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/lib/Model/ProductTabel.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
