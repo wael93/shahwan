@@ -1,13 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-device_info=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.2/
-path_provider=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.4/
-path_provider_linux=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
-path_provider_macos=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
-path_provider_windows=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
-qrscan=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.3.2/
-shared_preferences=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.7/
-shared_preferences_linux=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.2/
-shared_preferences_macos=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
-shared_preferences_web=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
-shared_preferences_windows=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.2/
-sqflite=/Users/zincadmin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4/
+device_info=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info-2.0.2\\
+path_provider=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.5\\
+path_provider_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.0\\
+path_provider_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.2\\
+path_provider_windows=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.3\\
+qrscan=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\
+shared_preferences=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-2.0.8\\
+shared_preferences_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-2.0.2\\
+shared_preferences_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-2.0.2\\
+shared_preferences_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-2.0.2\\
+shared_preferences_windows=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-2.0.2\\
+sqflite=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-2.0.0+4\\
