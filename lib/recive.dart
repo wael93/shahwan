@@ -24,7 +24,8 @@ class _QRViewExampleState extends State<QRViewExample> {
   // String result = "Hello Worlderer..!";
   // String Name = "Hello Worlderer..!";
   var DataTabel1;
-  TextEditingController nctrl = TextEditingController();
+
+  final _textFieldController = TextEditingController(text: "0");
 
   var alertStyle = AlertStyle(
       alertPadding: EdgeInsets.only(top: 150, bottom: 150),
@@ -65,13 +66,13 @@ class _QRViewExampleState extends State<QRViewExample> {
       // print("cameraScanResultName >>>>>>" + cameraScanResultName.toString());
 
       var name = cameraScanResultName;
-      var defaultCode = cameraScanResultNumber;
+      String defaultCode = cameraScanResultNumber.toString();
 
-      var productUomQty = '1'.toString();
+      var productUomQty = '0'.toString();
       db.SaveProduct(new ProductTabel(null,
-          name.toString(), defaultCode.toString(), productUomQty));
-      db.updateCourse(ProductTabel(3,
-          name.toString(), defaultCode.toString(), "2"));
+          name.toString(), defaultCode, productUomQty));
+      // db.updateCourse(ProductTabel(3,
+      //     name.toString(), defaultCode.toString(), "2"));
 
       // var data = {
       //   'database': 'shahwan',
@@ -97,21 +98,25 @@ class _QRViewExampleState extends State<QRViewExample> {
 
   Future _send() async {
     DateTime now = DateTime.now();
-    String formattedDate = DateFormat('dd/MM/yyyy').format(now);
+    String formattedDate = DateFormat('dd-MM-yyyy').format(now);
     var all = await db.getAllProducts();
     print("ALL>>>>" + all.toString());
     final prefs = await SharedPreferences.getInstance();
     final shahwan = prefs.getString('shahwan');
     final login = prefs.getString('UserName');
     final OdooApi = prefs.getString('OdooApi');
+    List update = await db.get2Produc();
+    print("UPDATE" + update.toString());
+
+
     var data;
     data = {
-      'database': "shahwan",
-      'login': "admin",
-      'OdooApi': "sgsdsfdgfdbrberb",
-      'date': formattedDate,
-      'qrcode_sale_form_line_ids':
-          '[{"default_code":"0001013073","product_uom_qty":10},{"default_code":"0001013075","product_uom_qty":4}]',
+      'database':"shahwan",
+      'login':"admin",
+      'OdooApi':"sgsdsfdgfdbrberb",
+      'date':formattedDate,
+      'qrcode_sale_form_line_ids':'[{"default_code":"000008362016","product_uom_qty":10},{"default_code":"0001013075","product_uom_qty":11}]',
+
     };
     print("data >>>> " + data.toString());
     data = await Service("qrcode_receive").Post(data);
@@ -162,6 +167,8 @@ class _QRViewExampleState extends State<QRViewExample> {
         ],
       ).show();
     }
+    var delet = await db.delet();
+    print("delet" + delet.toString());
   }
 
   @override
@@ -287,57 +294,66 @@ class _QRViewExampleState extends State<QRViewExample> {
                                     size: 15,
                                   ),
                                   onPressed: () async {
-                                    _showDialog(int index) {
-                                      nctrl.text = product.name;
-                                      showDialog(
+                                    showDialog(
                                         context: context,
-                                        builder: (BuildContext context) {
-                                          // return object of type Dialog
-                                          return AlertDialog(
-                                            elevation: 5,
-                                            backgroundColor: Colors.blue,
-                                            title: Text(
-                                              "Rename this pet",
-                                            ),
-                                            content: Container(
-                                                child: Column(
-                                              mainAxisSize: MainAxisSize.min,
-                                              children: <Widget>[
-                                                TextField(
-                                                  controller: nctrl,
-                                                  onChanged: (e) {
-                                                    setState(() {});
-                                                  },
-                                                ),
-                                              ],
-                                            )),
-                                            actions: <Widget>[
-                                              // usually buttons at the bottom of the dialog
-                                              FlatButton(
-                                                child: Text("Close"),
-                                                onPressed: () {
-                                                  Navigator.of(context).pop();
-                                                },
-                                              ),
-                                              FlatButton(
-                                                color: Colors.green,
-                                                child: Text(
-                                                  "Submit",
-                                                ),
-                                                onPressed: () {
-                                                  setState(() {
-                                                    // product.productUomQty = nctrl.text;
-                                                  });
-                                                  Navigator.pop(context);
-                                                },
-                                              ),
-                                            ],
-                                          );
-                                        },
-                                      );
-                                    }
+                                        builder: (context) {
+                                          return Padding(
+                                            padding: const EdgeInsets.all(20.0),
+                                            child: AlertDialog(
+                                              elevation: 20,
+                                              scrollable: true,
+                                              clipBehavior:Clip.hardEdge ,
+                                              title: Text('إضافة كمية'),
+                                              content: TextField(
 
-                                    ;
+                                                  keyboardType: TextInputType.number,
+                                                  inputFormatters: <TextInputFormatter>[
+                                                    FilteringTextInputFormatter.allow(RegExp(r'[0-9]')),
+                                                  ],
+
+                                                onChanged: (value) {
+                                                  setState(() {
+                                                     // valueText = value;
+                                                  });
+                                                },
+                                                controller: _textFieldController,
+                                                decoration: InputDecoration(hintText: "الكمية"),
+                                              ),
+                                              actions: <Widget>[
+                                                Center(
+                                              child: Container(
+                                              height: 10,
+                                              width: 20,
+                                              decoration: BoxDecoration(
+                                                  color: Colors.white,
+                                                  borderRadius: BorderRadius.circular(20)),
+                                                    child: FlatButton(
+                                                      color:ShahwanColor,
+                                                      textColor: Colors.white,
+                                                      child: Text('إضافة'),
+                                                      onPressed: () async{
+                                                        var qu = " ";
+                                                         qu = _textFieldController.text;
+                                                        if(qu==" "){ qu="0";}
+                                                       var id=index;
+                                                        db.updateCourse(ProductTabel(product.id,product.name, product.defaultCode, qu));
+
+
+                                                        setState(() {
+                                                          _textFieldController.text=" ";
+                                                          Navigator.pop(context);
+                                                        });
+                                                      },
+                                                    ),
+
+                                                )
+
+
+                                                )],
+                                            ),
+                                          );
+                                        });
+
                                   },
                                 ))),
                       ));
