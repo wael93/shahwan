@@ -1,1 +1,0 @@
-import 'package:flutter/material.dart';import 'package:localstorage/localstorage.dart';late Locale locale;late bool isLoggedIn = false;late Map categories; LocalStorage? storage;late String tokenStorage;
