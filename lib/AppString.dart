@@ -1,5 +1,7 @@
 import 'dart:ui';
 
+import 'package:flutter/cupertino.dart';
+
 abstract class Strings {
   String? appName;
   String? dataBase;
@@ -31,6 +33,20 @@ abstract class Strings {
   String? Add;
   String? Sendd;
   String? Scan;
+  String? BackPadding;
+  String? ClothColor;
+  String? Clothtype;
+  String? DeliveryPeriod;
+  String? IronColor;
+  String? MaterialUsed;
+  String? NoteProduct;
+  String? NumberPillows;
+  String? NumberSeats;
+  String? ProductFeatures;
+  String? SeatPadding;
+  String? WoodColor;
+  String? Woodtype,country_id,default_code,id,number_pieces;
+
 }
 
 class EnglishString extends Strings {
@@ -61,6 +77,24 @@ class EnglishString extends Strings {
     Add = "Add";
     Sendd = "Send";
     Scan = "Scan";
+    BackPadding = "Back Padding";
+    ClothColor = " Clothe Color";
+    Clothtype = " Clothe type";
+    DeliveryPeriod = " Delivery Period";
+    IronColor = " Iron Color";
+    MaterialUsed = " Material Used";
+    NoteProduct = " Note Product";
+    NumberPillows = " Number Pillows";
+    NumberSeats = " Number Seats";
+    ProductFeatures = " Product Features";
+    SeatPadding = "Seat Padding";
+    WoodColor = " Wood Color";
+    Woodtype = " Wood type";
+    country_id = country_id;
+    default_code= "  default_code";
+    id= " id";
+    number_pieces  = " number_pieces ";
+
   }
 }
 
@@ -91,5 +125,23 @@ class ArabicString extends Strings {
     QUantity = "الكمية";
     Add = "إضافة";
     Sendd = "إرسال";
+    BackPadding = " الحشوة الخلفية";
+    ClothColor = " لون الملابس";
+    Clothtype = " نوع الثياب";
+    DeliveryPeriod = " فترة التسليم ";
+    IronColor = " لون الحديدي";
+    MaterialUsed= " المواد المستخدمة";
+    Scan = "مسح";
+    NoteProduct = "ملاحظة للمنتج ";
+    NumberPillows = " عدد الوسائد ";
+    NumberSeats = " عدد المقاعد";
+    ProductFeatures= " ميزات المنتج";
+    SeatPadding = " حشوة المقعد";
+    WoodColor = " لون الخشب";
+    Woodtype = " نوع الخشب";
+    country_id = " رقم البلد";
+    default_code= " الرقم الاساسي";
+    id= " رقم";
+    number_pieces  = " عدد القطع ";
   }
 }
