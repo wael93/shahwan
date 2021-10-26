@@ -4,6 +4,6 @@ import 'AppString.dart';
 class AppController{
 
   static Strings strings = new EnglishString();
-  static TextDirection textDirection = TextDirection.rtl;
+  // static TextDirection textDirection = TextDirection.rtl;
 }
 
