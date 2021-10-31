@@ -45,7 +45,7 @@ abstract class Strings {
   String? ProductFeatures;
   String? SeatPadding;
   String? WoodColor;
-  String? Woodtype,country_id,default_code,id,number_pieces;
+  String? Woodtype,country_id,default_code,id,number_pieces,NOServer , SpacificValue, value ,warehouse , warehouseQ;
 
 }
 
@@ -94,6 +94,11 @@ class EnglishString extends Strings {
     default_code= "  default_code";
     id= " id";
     number_pieces  = " number_pieces ";
+    NOServer = " Server on Maintenance ";
+    SpacificValue = "Properties  ";
+    value = " Value";
+    warehouse  = "Warehouse";
+    warehouseQ = " Quantity";
 
   }
 }
@@ -143,5 +148,10 @@ class ArabicString extends Strings {
     default_code= " الرقم الاساسي";
     id= " رقم";
     number_pieces  = " عدد القطع ";
+    NOServer = " السيرفر تحت الصيانة";
+    SpacificValue = " الخصائص";
+    value = " القيمة";
+    warehouse= " المستودع";
+    warehouseQ = " الكمية";
   }
 }
