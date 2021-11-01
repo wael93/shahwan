@@ -45,7 +45,7 @@ abstract class Strings {
   String? ProductFeatures;
   String? SeatPadding;
   String? WoodColor;
-  String? Woodtype,country_id,default_code,id,number_pieces,NOServer , SpacificValue, value ,warehouse , warehouseQ;
+  String? Woodtype,country_id,default_code,id,number_pieces,NOServer,Code , SpacificValue, value ,warehouse , product, warehouseQ;
 
 }
 
@@ -99,6 +99,8 @@ class EnglishString extends Strings {
     value = " Value";
     warehouse  = "Warehouse";
     warehouseQ = " Quantity";
+    product= " Product";
+    Code="The Code";
 
   }
 }
@@ -153,5 +155,7 @@ class ArabicString extends Strings {
     value = " القيمة";
     warehouse= " المستودع";
     warehouseQ = " الكمية";
+    product="المنتج";
+    Code = "الكود";
   }
 }
