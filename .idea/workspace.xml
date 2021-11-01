@@ -7,6 +7,9 @@
     <list default="true" id="212d86fc-ec5c-41c2-91ca-314364fce08b" name="Default Changelist" comment="Shahwan Final">
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/AppString.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/AppString.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inventory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inventory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/recive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/recive.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/scannPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/scannPage.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thebest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
