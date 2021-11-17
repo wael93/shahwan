@@ -1,0 +1,39 @@
+{
+  "data": [
+
+    {
+      "properties-en": " BackPadding",
+      "properties-ar": "حشوة خلفية",
+      "value": "123"
+    },
+    {
+      "properties-en": " ClothColor",
+      "properties-ar": " لون الملابس",
+      "value":false
+    },
+    {
+      "properties-en": " Clothtype",
+      "properties-ar": "  نوع الملابس",
+      "value":false
+    },
+    {
+      "properties-en": " DeliveryPeriod",
+      "properties-ar": "   فترة التسليم",
+      "value":10
+    },
+
+    {
+      "properties-en": " مستودع اربد",
+      "properties-ar": " irbid",
+      "value":0.0
+    },
+    {
+      "properties-en": " مستودع الزرقاء",
+      "properties-ar": " zarqa",
+      "value":0.0
+    }
+  ],
+
+  "message": "Qrcode Product Info",
+  "result": "success"
+}
